@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hallo, Mein Name ist Mohamed Younis </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=arbeite+bei+Expleo+Germany..&Rolle;::;Technical+Lead+im+Testing+Bereich"></a>
 </p>
 <br>
 
@@ -15,13 +15,13 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- :school: bin Technical Lead bei Expleo Technology Germany.
 - :Fachlich
-       -  Software Engineering, Erstellung von Algorithmen und Datentypen.
-       -  Gute Kenntnisse in Programmier- und Skriptsprachen VBScript, SQL, JAVA, C++, Datenstrukturen, Datenbanken.
-       -  Tiefgehende Kenntnisse in Testwerkzeugen wie HP Quality Center, SOAP UI, TOSCA, TestLink, XML, XSD
-       -  Tiefgehende Erfahrung in Testmethoden wie Äquivalenzklassenbildung und Entscheidungstabellenanalyse, Testautomatisierung.
-       -  beherrscht die Grundlagen in den Bereichen Finanzdienstleistungen, Investmentbanking, Versicherungen
+       - :Software Engineering, Erstellung von Algorithmen und Datentypen.
+       - :Gute Kenntnisse in Programmier- und Skriptsprachen VBScript, SQL, JAVA, C++, Datenstrukturen, Datenbanken.
+       - :Tiefgehende Kenntnisse in Testwerkzeugen wie HP Quality Center, SOAP UI, TOSCA, TestLink, XML, XSD
+       - :Tiefgehende Erfahrung in Testmethoden wie Äquivalenzklassenbildung und Entscheidungstabellenanalyse, Testautomatisierung.
+       - :beherrscht die Grundlagen in den Bereichen Finanzdienstleistungen, Investmentbanking, Versicherungen
 
 - :Persönlich
 Hohe Motivation, Belastbarkeit, Hilfsbereitschaft und gute Kommunikationskompetenz, sehr gute
