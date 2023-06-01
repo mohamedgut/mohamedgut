@@ -47,9 +47,9 @@ Funktionaler Testspezialist bei einem der weltgrößten Versicherungsunternehmen
 
 - **Languages**:
     
-    ![VB Script](https://img.shields.io/badge/VB Script%20-%232370ED.svg?style=for-the-badge&logo=VB Script&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![JAVA](https://img.shields.io/badge/JAVA%20-%2314354C.svg?style=for-the-badge&logo=JAVA&logoColor=white)
+    ![VBScript](https://img.shields.io/badge/VBScript%20-%2314354C.svg?style=for-the-badge&logo=VBScript&logoColor=white)
 
 <br>   
     
